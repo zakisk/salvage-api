@@ -1,12 +1,13 @@
+// add your own configuration
 {
   "type": "service_account",
-  "project_id": "cloudmessaging-fbcb8",
-  "private_key_id": "676bfb69c9b6476effdbaf54eb0e20af8735a13b",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCMgT6CPdAoIPLw\n0pcFcLkMx4wdKzuTgYA7byMusdvLhSlJeArR+Ct7CnAqFilybAVI9UXOCK5TEId7\nwNRkpeGdEbuenQdSNGAw6sX16xcXmuoVOg7E6Vk7qPw1z6vVUUQO0ngyb9r077QY\nB7hrZrdov/RAcPqip90Pjq3Ro2Jn1YqQarAUEY18Wuyh1FcZaChr6oHEQ6yBpytj\nXCL3qy0PczBYcaGaO2o4sduKMo4pwBaOb8AQyyTxIYx/9MxSw1F6yNUduObAR8yb\nMSNablqKSNpFLwgIEixTnoJEb5Fsj17fKvfnXzpZekXUtX/0NzZB0dWQ/yuljo7E\nfUBZ/kylAgMBAAECggEAHb7c73DLqTs0g4Rp4YZ4PrreMGyvK66+aZbBQYj46dDS\nqVGnJMWf2ugeT+KqOqWgxs3aTeCrmz1EGZB8xqQRrBGNgWpoGuCovqJtb38qP96V\nkRHd/5URRZ6kanYBQGN4f5TSSodAuRsoKvAzfFVeHeiJer0QarAUDk+b/+ZRln6g\nDQaVzHyDgqqtYIJ0+F+bG7gfjOmKuqBlYne9P5Y2zfuk3AeDyJdg6gWTF4vb+tAg\nHBPd6U4RNTx1+5LaMYslRYDhrAzNHfcim68MP0LGbV/80n3mXmldvkxXKxnYdtl1\n7l9WTt7UO2HfXPU8e1JN5GSzNQ1m7ig87UD16UBe0QKBgQC/jR+9teKHMCx11xzV\nMJJ3jykM3+YVVQ2xBRmCQbomZqsYGy1BS8yOJKd4nI8yMRalp0kYIqzIySZ/168x\nfFS1kB/d/kwUGupkT1Spolr6k7yEkV94Mq3xvoH8fR8TSyXy6Wg16wTvJt7LOGCu\nMxC/MTl3owjhoMI38a9kkBBD2QKBgQC7x1ezIBlhqgeWM5F/n+x6dAXb8N1Q1eCB\nX3duTjNn6VfQNlKT6YVZ+zb9as+3G4E/J6zLuN57Y2iZUZnPkEitTddWxkwm7PzJ\nashM6f6o9k9U7YWTUKi5ymfqGS6IP1KL39FEJ5AMltKY3UlhenfNiqNtLxetP2xr\nYyrw/pMrrQKBgA11oB5XcnRnWShqlhcQ06ndAFhsPyGOmWiv4Av8DFV4b1tBRZvJ\n9LSkNLRP4+v18Q5ww70TaqqtH6xp/mBuyRD88JBLtxLOlVu5C0zkIJps2RlDkb7D\naN+MsFuKey2C4UbBSdZIDk+znoIPExQKeInGrrAOX6hjAGKn89gQG2R5AoGAUrUw\nuaMPyuabRNsd4PrNq/nigseKk4pAwnsMHbewCLrMhNcIdEHNDJ8Lz372Uo541Rpi\nj7CzveFBNxasCrJgcITyrjPVYufLR+QSqV3/XuhudNfRl9tVFdBDCOdiiXxqnVVN\n1Rkf54ue4tnE8nyAvDWuWe7+HL7swDgDt/ZJWFkCgYAtQlmz02z+vXJg/R9Zba4l\n7a37z5sDLU82HdiEGvu14uTKRYonD2z8/aRh9kHftpvpwFbz48NqZorZW54Sry48\nQiZZMH1Yx5DzTdnUJFNW8P0t5FU/6aqXiMDm1M11Y33hCpmAn5jxhgKtHzO0/QM+\nO5ytHaWZzOIhs+KDuQOQ4Q==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-5b0ft@cloudmessaging-fbcb8.iam.gserviceaccount.com",
-  "client_id": "109603170197568475259",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5b0ft%40cloudmessaging-fbcb8.iam.gserviceaccount.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
