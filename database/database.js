@@ -5,7 +5,7 @@ const config = {
     port : 3306,
     host : "localhost",
     user: "root",
-    password: "Zaki@9254",
+    password: "PASSWORD",
     database: "testDatabase"’,
     connectionLimit: 5,
     connectTimeout: 10000, // 10 seconds
@@ -14,6 +14,4 @@ const config = {
     queueLimit: 0
 }
 
-module.exports.init = function() {
-		    return createPool(config)
-		}
+module.exports.init = function() { return createPool(config) }
